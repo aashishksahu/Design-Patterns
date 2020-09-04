@@ -8,3 +8,5 @@ These are Jupyter Notebooks with Java kernel, because, java is the best!
 
 
 * [Decorator Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/Decorator.ipynb "Decorator Pattern")
+
+* [Factory Method Pattern](https://github.com/aashishksahu/Design-Patterns/blob/master/FactoryMethod.ipynb "FactoryMethod Pattern")
